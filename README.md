@@ -1,6 +1,10 @@
 # SHy
 Implementation for the paper: Self-Explaining Hypergraph Neural Networks for Diagnosis Prediction.
 
+## Initial Set Up
+Remove all temp.txt file from the various folders.
+These only serve to preserve file structure when committing to git
+
 ## Requirements
 - Python 3.9.13
 - PyTorch 1.13.1
